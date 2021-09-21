@@ -1,6 +1,3 @@
-<style>
-   a{ text-decoration:none;}
-</style>
 <h2>Repository:</h2>
 <h2 style="color:red;">BlackJack 21</h2>
 
